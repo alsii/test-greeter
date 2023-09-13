@@ -6,5 +6,6 @@
         "type": "git",
         "url": "https://github.com/alsii/test-greeter.git"
     },
-    "main": "index.js"
+    "main": "index.js",
+    "type": "module"
 }
